@@ -1,0 +1,14 @@
+#logo {
+	width: 800px;
+	margin: auto;
+	margin-top: 10%;
+	display: block;
+}
+
+#holder {
+	margin: auto;
+	text-align: center;
+	width: 100%;
+	font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-weight: 200;
+}
